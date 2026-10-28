@@ -1,0 +1,13 @@
+<!-- Image produit PROVISOIRE — sac à raquettes. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="1000" fill="#ebe5da"/>
+  <ellipse cx="400" cy="760" rx="300" ry="22" fill="#d8cbb3"/>
+  <!-- Poignées -->
+  <path d="M300 390 Q 300 290 400 290 Q 500 290 500 390" fill="none" stroke="#1f2420" stroke-width="16"/>
+  <!-- Corps du sac -->
+  <rect x="110" y="380" width="580" height="370" rx="150" fill="#2e4a37"/>
+  <rect x="110" y="520" width="580" height="44" fill="#b4573a"/>
+  <rect x="110" y="572" width="580" height="10" fill="#fbf8f2"/>
+  <path d="M190 430 H 610" stroke="#b4c3ab" stroke-width="4" stroke-dasharray="14 10"/>
+  <rect x="360" y="630" width="80" height="50" rx="6" fill="#fbf8f2" fill-opacity=".85"/>
+</svg>

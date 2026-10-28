@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Passing Shot · Tennis, Padel und Badminton in Suresnes",
+    "description": "Schläger, Bälle, Taschen, Bekleidung und Zubehör für Rückschlagsportarten. Eine saisonale Auswahl zum fairen Preis – online und in unserem Geschäft in Suresnes."
+  },
+  "announcement": "Kostenlose Abholung im Geschäft in Suresnes · Versand in Frankreich und Europa",
+  "nav": {
+    "home": "Startseite",
+    "shop": "Onlineshop",
+    "tennis": "Tennis",
+    "padel": "Padel",
+    "badminton": "Badminton",
+    "soon": "Bald",
+    "store": "Unser Geschäft",
+    "story": "Unsere Geschichte",
+    "clubs": "Vereine & Trainer",
+    "account": "Mein Konto",
+    "cart": "Warenkorb",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "language": "Sprache"
+  },
+  "hero": {
+    "eyebrow": "Herbst-Winter-Kollektion",
+    "title": "Die Eleganz des Spiels, zum fairen Preis",
+    "subtitle": "Tennis, Padel und bald Badminton: eine saisonale Auswahl der schönsten Marken, Stück für Stück ausgesucht.",
+    "ctaShop": "Zum Onlineshop",
+    "ctaStore": "Unser Geschäft in Suresnes besuchen"
+  },
+  "brands": {
+    "title": "Unsere Partnermarken"
+  },
+  "sports": {
+    "eyebrow": "Nach Sportart",
+    "title": "Wählen Sie Ihren Platz",
+    "explore": "Entdecken",
+    "comingSoon": "Demnächst",
+    "tennis": "Schläger, Bälle, Saiten und Platzbekleidung.",
+    "padel": "Padelschläger, Bälle und Taschen für alle Spieler.",
+    "badminton": "Badminton kommt bald zu Passing Shot."
+  },
+  "collections": {
+    "eyebrow": "Aktuelle Kollektionen",
+    "title": "Die Auswahl der Saison",
+    "intro": "Jede Saison wählen wir nur eine Handvoll Kollektionen, die wir wirklich lieben. Mehr nicht.",
+    "discover": "Kollektion entdecken"
+  },
+  "products": {
+    "eyebrow": "Auswahl",
+    "title": "Unsere Favoriten",
+    "viewAll": "Den ganzen Shop ansehen",
+    "new": "Neu",
+    "priceBefore": "Ursprünglicher Preis"
+  },
+  "story": {
+    "eyebrow": "Unsere Geschichte",
+    "title": "Tennis, wie wir es lieben",
+    "paragraphs": [
+      "Passing Shot entstand aus einer einfachen Idee: die Eleganz des Tennis von früher wiederzufinden – Clubs, Turnierplakate und weiße Kleidung –, ohne dafür zu viel zu bezahlen.",
+      "Jede Saison wählen wir das Beste der Marken aus, die wir kennen und selbst spielen, und bieten sie zum fairsten Preis an."
+    ],
+    "pillars": [
+      {
+        "title": "Eine Auswahl",
+        "text": "Jede Saison ausgewählte Kollektionen statt eines endlosen Katalogs."
+      },
+      {
+        "title": "Der faire Preis",
+        "text": "Das beste Preis-Leistungs-Verhältnis, ohne Kompromisse bei den Marken."
+      },
+      {
+        "title": "Ethischer Handel",
+        "text": "Sorgfältig ausgewählte Partner und ein transparenter Weiterverkauf."
+      }
+    ],
+    "cta": "Unsere Geschichte lesen"
+  },
+  "commitments": [
+    {
+      "title": "Kostenlose Abholung",
+      "text": "Online bestellen, im Geschäft in Suresnes abholen."
+    },
+    {
+      "title": "Sorgfältiger Versand",
+      "text": "Colissimo und Chronopost, in Frankreich und Europa."
+    },
+    {
+      "title": "Sichere Zahlung",
+      "text": "Karte, Apple Pay und Google Pay."
+    },
+    {
+      "title": "Beratung von Spielern",
+      "text": "Ein leidenschaftliches Team berät Sie."
+    }
+  ],
+  "showroom": {
+    "eyebrow": "Unser Geschäft",
+    "title": "Besuchen Sie uns in Suresnes",
+    "text": "In unserem Geschäft mit Showroom können Sie ausprobieren, vergleichen und mit uns über das Spiel sprechen.",
+    "addressLabel": "Adresse",
+    "hoursLabel": "Öffnungszeiten",
+    "closed": "Geschlossen",
+    "cta": "Besuch planen"
+  },
+  "clubs": {
+    "eyebrow": "Vereine & Trainer",
+    "title": "Vorteile für Vereine, ihre Mitglieder und Trainer",
+    "text": "Persönliche Rabattcodes für jedes Mitglied und Sammelbestellungen für Vereine: Sprechen wir darüber.",
+    "cta": "Partnerverein werden"
+  },
+  "footer": {
+    "tagline": "Ausrüstung für Tennis, Padel und Badminton. Onlineshop und Showroom in Suresnes.",
+    "shopTitle": "Onlineshop",
+    "houseTitle": "Passing Shot",
+    "legalTitle": "Informationen",
+    "legalNotice": "Impressum",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "privacy": "Datenschutzerklärung",
+    "cookies": "Cookies",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "title": "Diese Seite ist noch nicht fertig",
+    "text": "Unsere Website befindet sich im Aufbau: Diese Seite kommt in Kürze.",
+    "back": "Zurück zur Startseite"
+  },
+  "charte": {
+    "title": "Gestaltungsrichtlinien",
+    "intro": "Interne Referenzseite: Farben, Schriften und Schaltflächen der Website. Sie wird nicht von Google indexiert."
+  }
+}

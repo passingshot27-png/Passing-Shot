@@ -1,0 +1,16 @@
+<!-- Image produit PROVISOIRE — pala de padel. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="1000" fill="#e3e4e2"/>
+  <ellipse cx="400" cy="900" rx="160" ry="18" fill="#c9cdd3"/>
+  <g transform="translate(400 400) rotate(6)">
+    <path d="M-160 -50 C -160 -250 160 -250 160 -50 C 160 90 80 180 36 210 L -36 210 C -80 180 -160 90 -160 -50 Z" fill="#1f2b45"/>
+    <g fill="#e3e4e2">
+      <circle cx="-60" cy="-110" r="11"/><circle cx="0" cy="-110" r="11"/><circle cx="60" cy="-110" r="11"/>
+      <circle cx="-90" cy="-50" r="11"/><circle cx="-30" cy="-50" r="11"/><circle cx="30" cy="-50" r="11"/><circle cx="90" cy="-50" r="11"/>
+      <circle cx="-60" cy="10" r="11"/><circle cx="0" cy="10" r="11"/><circle cx="60" cy="10" r="11"/>
+      <circle cx="-30" cy="70" r="11"/><circle cx="30" cy="70" r="11"/>
+    </g>
+    <path d="M-120 130 C -60 60 60 60 120 130" fill="none" stroke="#aab4c8" stroke-width="10"/>
+    <rect x="-26" y="205" width="52" height="210" rx="12" fill="#1f2420"/>
+  </g>
+</svg>

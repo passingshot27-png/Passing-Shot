@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Passing Shot · Tenis, pádel y bádminton en Suresnes",
+    "description": "Raquetas, pelotas, bolsas, ropa y accesorios para deportes de raqueta. Una selección de temporada al precio justo, online y en nuestra tienda de Suresnes."
+  },
+  "announcement": "Recogida gratuita en tienda en Suresnes · Envíos a Francia y Europa",
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda online",
+    "tennis": "Tenis",
+    "padel": "Pádel",
+    "badminton": "Bádminton",
+    "soon": "Pronto",
+    "store": "La tienda",
+    "story": "Nuestra historia",
+    "clubs": "Clubes y entrenadores",
+    "account": "Mi cuenta",
+    "cart": "Cesta",
+    "openMenu": "Abrir el menú",
+    "closeMenu": "Cerrar el menú",
+    "language": "Idioma"
+  },
+  "hero": {
+    "eyebrow": "Colección otoño-invierno",
+    "title": "La elegancia del juego, al precio justo",
+    "subtitle": "Tenis, pádel y pronto bádminton: una selección de temporada de las mejores marcas, elegida pieza a pieza.",
+    "ctaShop": "Descubrir la tienda online",
+    "ctaStore": "Visitar la tienda de Suresnes"
+  },
+  "brands": {
+    "title": "Nuestras marcas asociadas"
+  },
+  "sports": {
+    "eyebrow": "Por deporte",
+    "title": "Elige tu pista",
+    "explore": "Explorar",
+    "comingSoon": "Próximamente",
+    "tennis": "Raquetas, pelotas, cordajes y ropa de pista.",
+    "padel": "Palas, pelotas y bolsas para jugadores de pádel.",
+    "badminton": "El bádminton llega pronto a Passing Shot."
+  },
+  "collections": {
+    "eyebrow": "Colecciones del momento",
+    "title": "La selección de la temporada",
+    "intro": "Cada temporada elegimos solo unas pocas colecciones que de verdad nos gustan. Nada más.",
+    "discover": "Descubrir la colección"
+  },
+  "products": {
+    "eyebrow": "Selección",
+    "title": "Nuestros favoritos",
+    "viewAll": "Ver toda la tienda",
+    "new": "Novedad",
+    "priceBefore": "Precio inicial"
+  },
+  "story": {
+    "eyebrow": "Nuestra historia",
+    "title": "El tenis como nos gusta",
+    "paragraphs": [
+      "Passing Shot nació de una idea sencilla: recuperar la elegancia del tenis de antes, la de los clubes, los carteles de torneos y la ropa blanca, sin pagar de más.",
+      "Cada temporada seleccionamos lo mejor de las marcas que conocemos y usamos, y las ofrecemos al precio más justo."
+    ],
+    "pillars": [
+      {
+        "title": "Una selección",
+        "text": "Colecciones elegidas cada temporada, en lugar de un catálogo infinito."
+      },
+      {
+        "title": "El precio justo",
+        "text": "La mejor relación calidad-precio, sin renunciar a las marcas."
+      },
+      {
+        "title": "Una reventa ética",
+        "text": "Socios elegidos con cuidado y una reventa transparente."
+      }
+    ],
+    "cta": "Leer nuestra historia"
+  },
+  "commitments": [
+    {
+      "title": "Recogida gratuita",
+      "text": "Compra online y recoge en la tienda de Suresnes."
+    },
+    {
+      "title": "Envío cuidado",
+      "text": "Colissimo y Chronopost, en Francia y Europa."
+    },
+    {
+      "title": "Pago seguro",
+      "text": "Tarjeta, Apple Pay y Google Pay."
+    },
+    {
+      "title": "Consejo de jugadores",
+      "text": "Un equipo apasionado para guiarte."
+    }
+  ],
+  "showroom": {
+    "eyebrow": "La tienda",
+    "title": "Ven a vernos a Suresnes",
+    "text": "Nuestra tienda-showroom te recibe para probar, comparar y hablar de juego con nosotros.",
+    "addressLabel": "Dirección",
+    "hoursLabel": "Horario",
+    "closed": "Cerrado",
+    "cta": "Preparar mi visita"
+  },
+  "clubs": {
+    "eyebrow": "Clubes y entrenadores",
+    "title": "Ventajas para clubes, sus socios y entrenadores",
+    "text": "Códigos de descuento personales para cada socio y pedidos agrupados para clubes: hablemos.",
+    "cta": "Ser club asociado"
+  },
+  "footer": {
+    "tagline": "Material de tenis, pádel y bádminton. Tienda online y showroom en Suresnes.",
+    "shopTitle": "Tienda online",
+    "houseTitle": "Passing Shot",
+    "legalTitle": "Información",
+    "legalNotice": "Aviso legal",
+    "terms": "Condiciones generales de venta",
+    "privacy": "Política de privacidad",
+    "cookies": "Cookies",
+    "rights": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Esta página aún no está lista",
+    "text": "El sitio está en construcción: esta página llegará muy pronto.",
+    "back": "Volver al inicio"
+  },
+  "charte": {
+    "title": "Guía de estilo",
+    "intro": "Página interna de referencia: colores, tipografías y botones del sitio. No está indexada en Google."
+  }
+}

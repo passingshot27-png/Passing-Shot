@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Passing Shot · Tennis, padel and badminton in Suresnes",
+    "description": "Rackets, balls, bags, apparel and accessories for racket sports. A seasonal selection at the right price, online and in our Suresnes store."
+  },
+  "announcement": "Free in-store pickup in Suresnes · Delivery across France and Europe",
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "tennis": "Tennis",
+    "padel": "Padel",
+    "badminton": "Badminton",
+    "soon": "Soon",
+    "store": "Our store",
+    "story": "Our story",
+    "clubs": "Clubs & coaches",
+    "account": "My account",
+    "cart": "Cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "hero": {
+    "eyebrow": "Autumn–winter collection",
+    "title": "The elegance of the game, at the right price",
+    "subtitle": "Tennis, padel and soon badminton: a seasonal selection from the finest brands, chosen piece by piece.",
+    "ctaShop": "Discover the shop",
+    "ctaStore": "Visit our Suresnes store"
+  },
+  "brands": {
+    "title": "Our partner brands"
+  },
+  "sports": {
+    "eyebrow": "By sport",
+    "title": "Choose your court",
+    "explore": "Explore",
+    "comingSoon": "Coming soon",
+    "tennis": "Rackets, balls, strings and court apparel.",
+    "padel": "Padel rackets, balls and bags for every player.",
+    "badminton": "Badminton is coming soon to Passing Shot."
+  },
+  "collections": {
+    "eyebrow": "Current collections",
+    "title": "This season's selection",
+    "intro": "Each season, we keep only a handful of collections we truly love. Nothing more.",
+    "discover": "Discover the collection"
+  },
+  "products": {
+    "eyebrow": "Selection",
+    "title": "Our favourites",
+    "viewAll": "View the whole shop",
+    "new": "New",
+    "priceBefore": "Original price"
+  },
+  "story": {
+    "eyebrow": "Our story",
+    "title": "Tennis the way we love it",
+    "paragraphs": [
+      "Passing Shot was born from a simple idea: to bring back the elegance of tennis as it once was — clubs, tournament posters and whites — without paying top price.",
+      "Every season we select the best from brands we know and play with, and offer them at the fairest price."
+    ],
+    "pillars": [
+      {
+        "title": "A selection",
+        "text": "Collections chosen each season, rather than an endless catalogue."
+      },
+      {
+        "title": "The right price",
+        "text": "The best value for money, with no compromise on brands."
+      },
+      {
+        "title": "Ethical retail",
+        "text": "Carefully chosen partners and transparent reselling."
+      }
+    ],
+    "cta": "Read our story"
+  },
+  "commitments": [
+    {
+      "title": "Free pickup",
+      "text": "Order online, collect in store in Suresnes."
+    },
+    {
+      "title": "Careful delivery",
+      "text": "Colissimo and Chronopost, across France and Europe."
+    },
+    {
+      "title": "Secure payment",
+      "text": "Card, Apple Pay and Google Pay."
+    },
+    {
+      "title": "Players' advice",
+      "text": "A passionate team to guide you."
+    }
+  ],
+  "showroom": {
+    "eyebrow": "Our store",
+    "title": "Come and see us in Suresnes",
+    "text": "Our store and showroom welcomes you to try, compare and talk about the game with us.",
+    "addressLabel": "Address",
+    "hoursLabel": "Opening hours",
+    "closed": "Closed",
+    "cta": "Plan my visit"
+  },
+  "clubs": {
+    "eyebrow": "Clubs & coaches",
+    "title": "Benefits for clubs, their members and coaches",
+    "text": "Personal discount codes for every member and group orders for clubs: let's talk.",
+    "cta": "Become a partner club"
+  },
+  "footer": {
+    "tagline": "Tennis, padel and badminton equipment. Online shop and showroom in Suresnes.",
+    "shopTitle": "Shop",
+    "houseTitle": "Passing Shot",
+    "legalTitle": "Information",
+    "legalNotice": "Legal notice",
+    "terms": "Terms and conditions of sale",
+    "privacy": "Privacy policy",
+    "cookies": "Cookies",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "This page isn't ready yet",
+    "text": "Our website is under construction: this page is coming very soon.",
+    "back": "Back to home"
+  },
+  "charte": {
+    "title": "Style guide",
+    "intro": "Internal reference page: the site's colours, typefaces and buttons. It is not indexed by Google."
+  }
+}

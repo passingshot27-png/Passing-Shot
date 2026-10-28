@@ -1,0 +1,20 @@
+<!-- Illustration PROVISOIRE — collection « Terre battue ». -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" preserveAspectRatio="xMidYMid slice">
+  <rect width="900" height="1200" fill="#b4573a"/>
+  <rect width="900" height="430" fill="#f4eee2"/>
+  <circle cx="450" cy="430" r="230" fill="#e6bfa9"/>
+  <rect y="430" width="900" height="770" fill="#b4573a"/>
+  <rect y="400" width="900" height="30" fill="#2e4a37"/>
+  <g fill="none" stroke="#f4eee2" stroke-width="5">
+    <polygon points="250,470 650,470 900,1200 0,1200"/>
+    <line x1="300" y1="470" x2="110" y2="1200"/>
+    <line x1="600" y1="470" x2="790" y2="1200"/>
+    <line x1="232" y1="530" x2="668" y2="530"/>
+    <line x1="450" y1="530" x2="450" y2="900"/>
+    <line x1="150" y1="900" x2="750" y2="900"/>
+  </g>
+  <!-- Grande balle -->
+  <circle cx="610" cy="760" r="120" fill="#d6c46f"/>
+  <path d="M530 680 q 80 80 0 160 M690 680 q -80 80 0 160" fill="none" stroke="#fbf8f2" stroke-width="7"/>
+  <ellipse cx="610" cy="895" rx="110" ry="14" fill="#8f4229" fill-opacity=".5"/>
+</svg>

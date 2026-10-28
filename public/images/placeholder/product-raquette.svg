@@ -1,0 +1,17 @@
+<!-- Image produit PROVISOIRE — raquette de tennis. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <defs><clipPath id="h"><ellipse rx="150" ry="190"/></clipPath></defs>
+  <rect width="800" height="1000" fill="#ece3d3"/>
+  <ellipse cx="400" cy="900" rx="170" ry="18" fill="#d8cbb3"/>
+  <g transform="translate(400 380) rotate(-8)">
+    <g clip-path="url(#h)" stroke="#f4eee2" stroke-width="3">
+      <path d="M-150 -160H150M-150 -120H150M-150 -80H150M-150 -40H150M-150 0H150M-150 40H150M-150 80H150M-150 120H150M-150 160H150"/>
+      <path d="M-120 -190V190M-80 -190V190M-40 -190V190M0 -190V190M40 -190V190M80 -190V190M120 -190V190"/>
+    </g>
+    <ellipse rx="150" ry="190" fill="none" stroke="#1f2420" stroke-width="20"/>
+    <ellipse rx="150" ry="190" fill="none" stroke="#b4573a" stroke-width="8" stroke-dasharray="120 480" stroke-dashoffset="60"/>
+    <path d="M-70 170 L-14 300 M70 170 L14 300" stroke="#1f2420" stroke-width="18" stroke-linecap="round"/>
+    <rect x="-22" y="296" width="44" height="220" rx="10" fill="#1f2420"/>
+    <rect x="-26" y="370" width="52" height="150" rx="10" fill="#b4573a"/>
+  </g>
+</svg>

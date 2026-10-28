@@ -1,0 +1,29 @@
+<!-- Illustration PROVISOIRE — collection « Héritage gazon ». -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <pattern id="stripes" width="180" height="1200" patternUnits="userSpaceOnUse">
+      <rect width="90" height="1200" fill="#2e4a37"/>
+      <rect x="90" width="90" height="1200" fill="#365640"/>
+    </pattern>
+    <clipPath id="head"><ellipse cx="0" cy="0" rx="150" ry="205"/></clipPath>
+  </defs>
+  <rect width="900" height="1200" fill="url(#stripes)"/>
+  <g fill="none" stroke="#f4eee2" stroke-width="5" stroke-opacity=".85">
+    <rect x="70" y="70" width="760" height="1060"/>
+    <line x1="70" y1="1000" x2="830" y2="1000"/>
+    <line x1="450" y1="1000" x2="450" y2="1130"/>
+  </g>
+  <!-- Raquette en bois -->
+  <g transform="translate(450 520) rotate(-18)">
+    <g clip-path="url(#head)" stroke="#f4eee2" stroke-width="2.5" stroke-opacity=".9">
+      <path d="M-150 -180H150M-150 -140H150M-150 -100H150M-150 -60H150M-150 -20H150M-150 20H150M-150 60H150M-150 100H150M-150 140H150M-150 180H150"/>
+      <path d="M-120 -210V210M-80 -210V210M-40 -210V210M0 -210V210M40 -210V210M80 -210V210M120 -210V210"/>
+    </g>
+    <ellipse rx="150" ry="205" fill="none" stroke="#c9a77c" stroke-width="22"/>
+    <path d="M-60 192 L-14 300 M60 192 L14 300" stroke="#c9a77c" stroke-width="20" stroke-linecap="round"/>
+    <rect x="-20" y="296" width="40" height="230" rx="8" fill="#c9a77c"/>
+    <rect x="-24" y="380" width="48" height="150" rx="8" fill="#fbf8f2"/>
+  </g>
+  <circle cx="690" cy="860" r="40" fill="#fbf8f2"/>
+  <path d="M660 832 q 30 28 0 56 M720 832 q -30 28 0 56" fill="none" stroke="#b4c3ab" stroke-width="3"/>
+</svg>

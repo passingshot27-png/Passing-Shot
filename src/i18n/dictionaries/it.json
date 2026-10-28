@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Passing Shot · Tennis, padel e badminton a Suresnes",
+    "description": "Racchette, palline, borse, abbigliamento e accessori per gli sport di racchetta. Una selezione stagionale al giusto prezzo, online e nel nostro negozio di Suresnes."
+  },
+  "announcement": "Ritiro gratuito in negozio a Suresnes · Spedizione in Francia e in Europa",
+  "nav": {
+    "home": "Home",
+    "shop": "Negozio online",
+    "tennis": "Tennis",
+    "padel": "Padel",
+    "badminton": "Badminton",
+    "soon": "Presto",
+    "store": "Il negozio",
+    "story": "La storia",
+    "clubs": "Club e maestri",
+    "account": "Il mio account",
+    "cart": "Carrello",
+    "openMenu": "Apri il menu",
+    "closeMenu": "Chiudi il menu",
+    "language": "Lingua"
+  },
+  "hero": {
+    "eyebrow": "Collezione autunno-inverno",
+    "title": "L'eleganza del gioco, al giusto prezzo",
+    "subtitle": "Tennis, padel e presto badminton: una selezione stagionale dei marchi più belli, scelta pezzo per pezzo.",
+    "ctaShop": "Scopri il negozio online",
+    "ctaStore": "Visita il negozio di Suresnes"
+  },
+  "brands": {
+    "title": "I nostri marchi partner"
+  },
+  "sports": {
+    "eyebrow": "Per sport",
+    "title": "Scegli il tuo campo",
+    "explore": "Esplora",
+    "comingSoon": "Presto disponibile",
+    "tennis": "Racchette, palline, corde e abbigliamento da campo.",
+    "padel": "Pale, palline e borse per i giocatori di padel.",
+    "badminton": "Il badminton arriva presto da Passing Shot."
+  },
+  "collections": {
+    "eyebrow": "Collezioni del momento",
+    "title": "La selezione della stagione",
+    "intro": "Ogni stagione scegliamo solo poche collezioni che amiamo davvero. Niente di più.",
+    "discover": "Scopri la collezione"
+  },
+  "products": {
+    "eyebrow": "Selezione",
+    "title": "I nostri preferiti",
+    "viewAll": "Vedi tutto il negozio",
+    "new": "Novità",
+    "priceBefore": "Prezzo iniziale"
+  },
+  "story": {
+    "eyebrow": "La storia",
+    "title": "Il tennis come piace a noi",
+    "paragraphs": [
+      "Passing Shot nasce da un'idea semplice: ritrovare l'eleganza del tennis di una volta, quella dei club, dei manifesti dei tornei e delle divise bianche, senza pagare a caro prezzo.",
+      "Ogni stagione selezioniamo il meglio dei marchi che conosciamo e usiamo, e li proponiamo al prezzo più giusto."
+    ],
+    "pillars": [
+      {
+        "title": "Una selezione",
+        "text": "Collezioni scelte ogni stagione, invece di un catalogo infinito."
+      },
+      {
+        "title": "Il giusto prezzo",
+        "text": "Il miglior rapporto qualità-prezzo, senza compromessi sui marchi."
+      },
+      {
+        "title": "Una rivendita etica",
+        "text": "Partner scelti con cura e una rivendita trasparente."
+      }
+    ],
+    "cta": "Leggi la nostra storia"
+  },
+  "commitments": [
+    {
+      "title": "Ritiro gratuito",
+      "text": "Ordina online, ritira in negozio a Suresnes."
+    },
+    {
+      "title": "Spedizione curata",
+      "text": "Colissimo e Chronopost, in Francia e in Europa."
+    },
+    {
+      "title": "Pagamento sicuro",
+      "text": "Carta, Apple Pay e Google Pay."
+    },
+    {
+      "title": "Consigli da giocatori",
+      "text": "Un team appassionato per guidarti."
+    }
+  ],
+  "showroom": {
+    "eyebrow": "Il negozio",
+    "title": "Vieni a trovarci a Suresnes",
+    "text": "Il nostro negozio-showroom ti accoglie per provare, confrontare e parlare di gioco con noi.",
+    "addressLabel": "Indirizzo",
+    "hoursLabel": "Orari",
+    "closed": "Chiuso",
+    "cta": "Prepara la tua visita"
+  },
+  "clubs": {
+    "eyebrow": "Club e maestri",
+    "title": "Vantaggi per i club, i loro soci e i maestri",
+    "text": "Codici sconto personali per ogni socio, ordini di gruppo per i club: parliamone insieme.",
+    "cta": "Diventa club partner"
+  },
+  "footer": {
+    "tagline": "Attrezzatura da tennis, padel e badminton. Negozio online e showroom a Suresnes.",
+    "shopTitle": "Negozio online",
+    "houseTitle": "Passing Shot",
+    "legalTitle": "Informazioni",
+    "legalNotice": "Note legali",
+    "terms": "Condizioni generali di vendita",
+    "privacy": "Informativa sulla privacy",
+    "cookies": "Cookie",
+    "rights": "Tutti i diritti riservati."
+  },
+  "notFound": {
+    "title": "Questa pagina non è ancora pronta",
+    "text": "Il sito è in costruzione: questa pagina arriverà molto presto.",
+    "back": "Torna alla home"
+  },
+  "charte": {
+    "title": "Linee guida grafiche",
+    "intro": "Pagina interna di riferimento: colori, caratteri e pulsanti del sito. Non è indicizzata da Google."
+  }
+}

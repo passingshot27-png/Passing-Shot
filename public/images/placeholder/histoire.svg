@@ -1,0 +1,24 @@
+<!-- Illustration PROVISOIRE — univers de la marque (à remplacer par une photo). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="h"><ellipse rx="140" ry="190"/></clipPath>
+    <g id="racket">
+      <g clip-path="url(#h)" stroke="#f4eee2" stroke-width="2.5">
+        <path d="M-140 -160H140M-140 -120H140M-140 -80H140M-140 -40H140M-140 0H140M-140 40H140M-140 80H140M-140 120H140M-140 160H140"/>
+        <path d="M-120 -190V190M-80 -190V190M-40 -190V190M0 -190V190M40 -190V190M80 -190V190M120 -190V190"/>
+      </g>
+      <ellipse rx="140" ry="190" fill="none" stroke="#c9a77c" stroke-width="20"/>
+      <path d="M-56 176 L-14 280 M56 176 L14 280" stroke="#c9a77c" stroke-width="18" stroke-linecap="round"/>
+      <rect x="-20" y="276" width="40" height="220" rx="8" fill="#c9a77c"/>
+      <rect x="-23" y="360" width="46" height="140" rx="8" fill="#1f2420"/>
+    </g>
+  </defs>
+  <rect width="1000" height="1200" fill="#2e4a37"/>
+  <rect x="60" y="60" width="880" height="1080" fill="none" stroke="#e6bfa9" stroke-width="3"/>
+  <rect x="80" y="80" width="840" height="1040" fill="none" stroke="#e6bfa9" stroke-width="1.5"/>
+  <circle cx="500" cy="520" r="300" fill="#b4573a"/>
+  <use href="#racket" transform="translate(410 500) rotate(-22)"/>
+  <use href="#racket" transform="translate(590 500) rotate(22)"/>
+  <circle cx="500" cy="930" r="42" fill="#fbf8f2"/>
+  <path d="M468 900 q 32 30 0 60 M532 900 q -32 30 0 60" fill="none" stroke="#b4c3ab" stroke-width="3"/>
+</svg>

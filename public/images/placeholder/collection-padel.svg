@@ -1,0 +1,29 @@
+<!-- Illustration PROVISOIRE — collection « Padel nocturne ». -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" preserveAspectRatio="xMidYMid slice">
+  <rect width="900" height="1200" fill="#1f2b45"/>
+  <!-- Vitres et grillage du court -->
+  <g fill="none" stroke="#aab4c8" stroke-opacity=".35" stroke-width="3">
+    <path d="M0 300H900M0 600H900M150 0V700M300 0V700M450 0V700M600 0V700M750 0V700"/>
+  </g>
+  <rect y="700" width="900" height="500" fill="#2a3a5c"/>
+  <g fill="none" stroke="#f4eee2" stroke-width="5" stroke-opacity=".8">
+    <line x1="0" y1="760" x2="900" y2="760"/>
+    <line x1="450" y1="760" x2="450" y2="1200"/>
+  </g>
+  <!-- Projecteur -->
+  <circle cx="760" cy="140" r="60" fill="#fbf8f2" fill-opacity=".9"/>
+  <circle cx="760" cy="140" r="120" fill="#fbf8f2" fill-opacity=".12"/>
+  <!-- Pala de padel -->
+  <g transform="translate(400 560) rotate(14)">
+    <path d="M-150 -60 C -150 -230 150 -230 150 -60 C 150 80 70 170 30 200 L -30 200 C -70 170 -150 80 -150 -60 Z" fill="#f4eee2"/>
+    <g fill="#1f2b45">
+      <circle cx="-60" cy="-100" r="10"/><circle cx="0" cy="-100" r="10"/><circle cx="60" cy="-100" r="10"/>
+      <circle cx="-90" cy="-40" r="10"/><circle cx="-30" cy="-40" r="10"/><circle cx="30" cy="-40" r="10"/><circle cx="90" cy="-40" r="10"/>
+      <circle cx="-60" cy="20" r="10"/><circle cx="0" cy="20" r="10"/><circle cx="60" cy="20" r="10"/>
+      <circle cx="-30" cy="80" r="10"/><circle cx="30" cy="80" r="10"/>
+    </g>
+    <path d="M-150 -60 C -150 -230 150 -230 150 -60" fill="none" stroke="#b4573a" stroke-width="14"/>
+    <rect x="-24" y="195" width="48" height="190" rx="10" fill="#b4573a"/>
+  </g>
+  <circle cx="230" cy="930" r="34" fill="#d6c46f"/>
+</svg>

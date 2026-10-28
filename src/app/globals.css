@@ -1,0 +1,65 @@
+/*
+ * Charte graphique Passing Shot — luxe, neutre, rétro.
+ *
+ * Toutes les couleurs et polices du site sont définies ici, dans le bloc @theme.
+ * Tailwind génère automatiquement les classes correspondantes :
+ *   --color-clay      → bg-clay, text-clay, border-clay…
+ *   --font-serif      → font-serif
+ * Pour ajuster une teinte sur tout le site, il suffit de changer sa valeur ici.
+ */
+@import "tailwindcss";
+
+@theme {
+  /* Fonds : crème et blanc cassé, jamais de blanc pur. */
+  --color-ivory: #fbf8f2; /* blanc cassé (cartes, encarts) */
+  --color-cream: #f4eee2; /* fond principal */
+  --color-sand: #e7dcc8; /* fond secondaire, séparateurs */
+  --color-line: #d8cbb3; /* traits fins, bordures */
+
+  /* Texte : un noir chaud, légèrement vert, plus doux qu'un noir pur. */
+  --color-ink: #1f2420;
+  --color-ink-soft: #545a52; /* texte secondaire */
+
+  /* Accent 1 — terre battue Roland-Garros (rouge-orangé passé). */
+  --color-clay: #b4573a;
+  --color-clay-dark: #8f4229;
+  --color-clay-light: #e6bfa9;
+
+  /* Accent 2 — vert Wimbledon (vert profond, un peu passé). */
+  --color-grass: #2e4a37;
+  --color-grass-dark: #213628;
+  --color-grass-light: #b4c3ab;
+
+  /* Accent 3 — bleu profond. */
+  --color-navy: #1f2b45;
+  --color-navy-light: #aab4c8;
+
+  /* Polices : chargées dans src/app/[lang]/layout.tsx via next/font. */
+  --font-serif: var(--font-cormorant), "Times New Roman", serif; /* titres */
+  --font-sans: var(--font-jost), "Helvetica Neue", Arial, sans-serif; /* texte */
+
+  /* Lettrage espacé des petites étiquettes (« eyebrows »), façon affiche. */
+  --tracking-label: 0.22em;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream font-sans text-ink antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif font-medium tracking-tight text-balance;
+  }
+
+  /* Contour de focus visible et sobre pour la navigation au clavier. */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-clay;
+  }
+}

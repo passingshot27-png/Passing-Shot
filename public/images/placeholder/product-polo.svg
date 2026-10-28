@@ -1,0 +1,13 @@
+<!-- Image produit PROVISOIRE — polo de tennis. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="1000" fill="#e7dcc8"/>
+  <path d="M290 190 L210 220 L110 380 L200 440 L250 360 L250 820 L550 820 L550 360 L600 440 L690 380 L590 220 L510 190 Q 400 260 290 190 Z" fill="#fbf8f2" stroke="#d8cbb3" stroke-width="3"/>
+  <!-- Col et liserés -->
+  <path d="M290 190 L360 290 L400 250 L440 290 L510 190" fill="#fbf8f2" stroke="#2e4a37" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M400 250 V 380" stroke="#d8cbb3" stroke-width="3"/>
+  <circle cx="400" cy="300" r="5" fill="#d8cbb3"/><circle cx="400" cy="345" r="5" fill="#d8cbb3"/>
+  <path d="M110 380 L200 440 M690 380 L600 440" stroke="#2e4a37" stroke-width="10"/>
+  <path d="M250 805 H550" stroke="#2e4a37" stroke-width="6"/>
+  <!-- Petite balle brodée -->
+  <circle cx="480" cy="340" r="14" fill="#b4573a"/>
+</svg>
